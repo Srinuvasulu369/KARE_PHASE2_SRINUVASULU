@@ -1,1 +1,22 @@
+class Main {
+    public static void main(String args[]) {
+        System.out.print("cse \"KARE\" students");
+    }
+}
 
+
+class Main {
+    public static void main(String args[]) {
+        System.out.print("\\n");
+    }
+}
+
+
+import java.util.*;
+class Main {
+    public static void main(String args[]) {
+        Scanner obj=new Scanner(System.in);
+        int a=obj.nextInt();//20
+        System.out.print(a);
+    }
+}
